@@ -80,4 +80,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Media Running the App
 
 # Get Data
-<img align"center" src="https://github.com/rakhacimano/authentication-with-laravel-jwt/media/1.png">
+<img align="center" src="https://github.com/rakhacimano/authentication-with-laravel-jwt/media/1.png">
